@@ -5,5 +5,9 @@
 .tituloTec{
     font: bolder 50pt arial;
     color: gray;
-    
+
+}
+h1{
+    margin: 0px;
+    padding: 0px;
 }
