@@ -1,1 +1,8 @@
-
+.tituloLeo{
+    font: normal 15pt arial;
+    color: rgb(190, 189, 189);
+}
+.tituloTec{
+    font: bolder 20pt arial;
+    color: gray;
+}
