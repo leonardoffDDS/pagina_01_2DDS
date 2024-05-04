@@ -1,11 +1,8 @@
 .tituloLeo{
-    font: normal 15pt arial;
+    font: normal 45pt arial;
     color: rgb(190, 189, 189);
 }
 .tituloTec{
-    font: bolder 20pt arial;
+    font: bolder 50pt arial;
     color: gray;
-}
-body{
-    background-color: blue;
 }
